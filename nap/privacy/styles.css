@@ -43,6 +43,12 @@ body
   margin-top: 0;
 }
 
+.text-subhead.no-margin-vertical
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .text-body-1
 {
   font-size: 14px;
@@ -59,6 +65,11 @@ body
 .text-color-secondary
 {
   color: rgba(0,0,0,.60);
+}
+
+.text-bold
+{
+  font-weight: bold;
 }
 
 main
